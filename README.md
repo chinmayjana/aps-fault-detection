@@ -1,6 +1,6 @@
 # neurolab-mongo-python
 
-![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
+
 
 ### Step 1 - Install the requirements
 
@@ -76,9 +76,7 @@ main--> is your branch name
 
 .env file has
 ```
-MONGO_DB_URL="mongodb://localhost:27017"
-AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
-AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
+
 ```
 
 ```
