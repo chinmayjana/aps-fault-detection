@@ -1,5 +1,4 @@
-# neurolab-mongo-python
-
+# Air Passenger System Fault Detection
 
 
 ### Step 1 - Install the requirements
@@ -18,10 +17,10 @@ python main.py
 To download your dataset
 
 ```
-wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+wget https://raw.githubusercontent.com/chinmayjana/sensor-fault-detection/main/aps_failure_training_set1.csv
 ```
 
-This is changes made in neuro lab
+
 
 
 Git commands
